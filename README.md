@@ -14,7 +14,9 @@ redirect uri: http://localhost:8000
 Everything else I left blank.
 
 Once you have made your app. Click edit to see more details on it.
+     
      Under 'personal user script' you will see your Client ID
+     
      Beside 'secret' your Client Secret
 
 In the python file all you need to do it replace the "INSERT ..." with your information.
