@@ -4,9 +4,13 @@ This program uses the reddits client and developer tools to allow the redditor t
 In order to use this program you will need to create an app at https://www.reddit.com/prefs/apps.
 
 Name: Leave All Subs
+
 pick script for personal use
+
 Description: put whatever you want
+
 redirect uri: http://localhost:8000
+
 Everything else I left blank.
 
 Once you have made your app. Click edit to see more details on it.
@@ -15,6 +19,6 @@ Once you have made your app. Click edit to see more details on it.
 
 In the python file all you need to do it replace the "INSERT ..." with your information.
 
-After doing so 
+
 
 
